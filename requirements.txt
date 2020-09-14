@@ -1,0 +1,6 @@
+numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1591485215893/work
+pandas==0.25.3
+pandas-profiling==2.8.0
+scikit-learn==0.22.2.post1
+seaborn @ file:///home/conda/feedstock_root/build_artifacts/seaborn-base_1591878760859/work
+matplotlib @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-base_1592576108701/work
