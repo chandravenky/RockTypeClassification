@@ -1,9 +1,8 @@
-##  Exploratory Data Analysis  <br>
-DH_Exploratory_Data_Analysis_Well_log_data.ipynb : The Rock typing analysis with Exploratory Data Analysis and Rocky Typing on the well log data.<br>
+##  Exploratory Data Analysis to Rock Type Classification on Well Log Data<br>
 
-## Steps to Execute the notebook
+## Steps to execute the notebook
 
-### Step 1: Clone the repository using
+### Step 1: Clone the repository
 
 ```
 git clone https://github.com/Integradas/RockTypeClassification.git
