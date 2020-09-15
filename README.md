@@ -6,11 +6,16 @@
 
 <br>
 
-Integra services leverage the Digital Hub™  platform accelerators to deliver an end-to-end engagement with fast measurable results.
+Integra Data & Analytic Solutions offers better decision-making backed by AI/Machine Learning powered end-to-end data analytics, turning existing data, in whatever capacity, into the valuable information needed to make profitable decisions. Integra's Digital Hub(TM) empowers companies to innovate, scale, and do more with their data.
+
+<br>
+
+Integra Data & Analytic Solutions: Enabling better decision-making through AI/ML-powered end-to-end data analytics. Start your digital transformation with enterprise-grade technology and cutting edge data science at your fingertips.
 
 Please visit: [Integradas Home](https://www.integradas.ca/)
 
 <br>
+
 ##  Exploratory Data Analysis to Rock Type Classification on Well Log Data<br>
 
 ## 1. Clone the repository and run locally
