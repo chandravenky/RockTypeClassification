@@ -1,3 +1,15 @@
+![](imgs/logo.png)
+
+<br>
+
+<img src="imgs/logo.png" align="center" style="width: 200px;"/>
+
+<br>
+
+<img src="imgs/logo.png" align="center" width="500" height="200" />
+
+
+
 ##  Exploratory Data Analysis to Rock Type Classification on Well Log Data<br>
 
 ## 1. Clone the repository and run locally
