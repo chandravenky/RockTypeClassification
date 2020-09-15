@@ -4,9 +4,9 @@
 
 <img src="imgs/logo.png" align="center" style="width: 100px;"/>
 
-<br>
+<!-- <br>
 
-<img src="imgs/logo.png" align="center" width="300" height="100" />
+<img src="imgs/logo.png" align="center" width="300" height="100" /> -->
 
 
 
