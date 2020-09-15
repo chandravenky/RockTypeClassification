@@ -1,18 +1,12 @@
 
 <br>
 <p align="center">
-  <img width="300" height="100" src="imgs/logo.png">
+  <img width="500" height="150" src="imgs/logo.png">
 </p>
 
 <br>
 
-Integra Data & Analytic Solutions offers better decision-making backed by AI/Machine Learning powered end-to-end data analytics, turning existing data, in whatever capacity, into the valuable information needed to make profitable decisions. Integra's Digital Hub(TM) empowers companies to innovate, scale, and do more with their data.
-
-<br>
-
-Integra Data & Analytic Solutions: Enabling better decision-making through AI/ML-powered end-to-end data analytics. Start your digital transformation with enterprise-grade technology and cutting edge data science at your fingertips.
-
-Please visit: [Integradas Home](https://www.integradas.ca/)
+Integra Data & Analytic Solutions: Enabling better decision-making through AI/ML-powered end-to-end data analytics. Start your digital transformation with enterprise-grade technology and cutting edge data science at your fingertips. Please visit [Integradas Home](https://www.integradas.ca/) for more information.
 
 <br>
 
