@@ -1,12 +1,12 @@
-![](imgs/logo.png)
+<!-- ![](imgs/logo.png)
+
+<br> -->
+
+<img src="imgs/logo.png" align="center" style="width: 100px;"/>
 
 <br>
 
-<img src="imgs/logo.png" align="center" style="width: 200px;"/>
-
-<br>
-
-<img src="imgs/logo.png" align="center" width="500" height="200" />
+<img src="imgs/logo.png" align="center" width="300" height="100" />
 
 
 
