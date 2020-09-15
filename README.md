@@ -1,16 +1,3 @@
-<!-- ![](imgs/logo.png)
-
-<br> -->
-
-<img src="imgs/logo.png" align="center" style="width: 100px;"/>
-
-<!-- <br>
-
-<img src="imgs/logo.png" align="center" width="300" height="100" /> -->
-
-<br>
-
-<img align="center" width="300" height="100" src="imgs/logo.png">
 
 <br>
 <p align="center">
