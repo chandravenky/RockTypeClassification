@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 The Digital Hub has all configurations set up so you can directly start with your analysis.
 
-To sign up visit: [Digital Hub Platform ](https://www.digitalhub.io/)
+To sign up visit [Digital Hub website](https://www.digitalhub.io/)
 
 
 
