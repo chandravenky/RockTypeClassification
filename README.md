@@ -6,7 +6,7 @@
 
 <br>
 
-Enabling better decision-making through AI/ML-powered end-to-end data analytics. Start your digital transformation with enterprise-grade technology and cutting edge data science at your fingertips. Please visit our [ website](https://www.integradas.ca/) for more information.
+Enabling better decision-making through AI/ML-powered end-to-end data analytics. Start your digital transformation with enterprise-grade technology and cutting edge data science at your fingertips. Visit our [ website](https://www.integradas.ca/) for more information.
 
 <br>
 
@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 The Digital Hub has all configurations set up so you can directly start with your analysis.
 
-To sign up please visit: [Digital Hub Platform ](https://www.digitalhub.io/)
+To sign up visit: [Digital Hub Platform ](https://www.digitalhub.io/)
 
 
 
