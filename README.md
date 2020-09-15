@@ -1,6 +1,6 @@
 ##  Exploratory Data Analysis to Rock Type Classification on Well Log Data<br>
 
-## Steps to execute the notebook
+## 1. Clone the repository and run locally
 
 ### Step 1: Clone the repository
 
@@ -11,7 +11,8 @@ git clone https://github.com/Integradas/RockTypeClassification.git
 
 Navigate into the parent directory.
 
-### Step 2: Install the requirements.txt file
+### Step 2: Install the required dependencies
+
 
 ```
 pip install -r requirements.txt
@@ -19,6 +20,15 @@ pip install -r requirements.txt
 ```
 
 ### Step 3: Access the Jupyter Notebook DH_Exploratory_Data_Analysis_Well_log_data.ipynb
+
+## 2. Access the Notebook on Digital Hub <br>
+
+The Digital Hub has all configurations set up so you can directly start with your analysis.
+
+To sign up please visit: [Digital Hub Platform Home](https://www.digitalhub.io/)
+
+
+
 
 
 
