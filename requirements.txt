@@ -1,6 +1,16 @@
-numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1591485215893/work
+numpy==1.18.5
 pandas==0.25.3
 pandas-profiling==2.8.0
 scikit-learn==0.22.2.post1
-seaborn @ file:///home/conda/feedstock_root/build_artifacts/seaborn-base_1591878760859/work
-matplotlib @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-base_1592576108701/work
+seaborn==0.10.1
+matplotlib==3.2.2
+jupyter-core==4.6.3
+jupyter-lsp==0.8.0
+jupyter-telemetry==0.0.5
+jupyterhub==1.1.0
+jupyterlab==1.2.5
+jupyterlab-git==0.10.1
+jupyterlab-iframe==0.2.2
+jupyterlab-server==1.0.9
+jupyterlab-sql==0.3.3
+jupyterlab-templates==0.2.3
