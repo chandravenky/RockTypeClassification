@@ -8,6 +8,8 @@
 
 <img src="imgs/logo.png" align="center" width="300" height="100" /> -->
 
+<br>
+<img align="center" width="300" height="100" src="imgs/logo.png">
 
 
 ##  Exploratory Data Analysis to Rock Type Classification on Well Log Data<br>
