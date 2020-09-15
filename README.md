@@ -6,7 +6,7 @@
 
 <br>
 
-Integra Data & Analytic Solutions: Enabling better decision-making through AI/ML-powered end-to-end data analytics. Start your digital transformation with enterprise-grade technology and cutting edge data science at your fingertips. Please visit [Integradas Home](https://www.integradas.ca/) for more information.
+Enabling better decision-making through AI/ML-powered end-to-end data analytics. Start your digital transformation with enterprise-grade technology and cutting edge data science at your fingertips. Please visit [Integradas Home](https://www.integradas.ca/) for more information.
 
 <br>
 
