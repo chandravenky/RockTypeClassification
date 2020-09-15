@@ -4,6 +4,7 @@
   <img width="300" height="100" src="imgs/logo.png">
 </p>
 
+<br>
 
 ##  Exploratory Data Analysis to Rock Type Classification on Well Log Data<br>
 
