@@ -4,7 +4,4 @@ pandas-profiling==2.8.0
 scikit-learn==0.22.2.post1
 seaborn==0.10.1
 matplotlib==3.2.2
-jupyter-core==4.6.3
-jupyter-lsp==0.8.0
-jupyter-telemetry==0.0.5
 
